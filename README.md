@@ -5,8 +5,8 @@ Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardant
 
 ### TABELLA PER AUTO SALONE DI AUTO USATE
 
-| OBJECT | TYPE | MORE |
-|  :---: |:---: |:---: |
+| OBJECT              | TYPE            | MORE |
+|  :---:              |:---:            |:---: |
 **ID**                | INT             | UNISIGNED - PRIMARY_KEY - NOTNULL - UNIQUE - AUTOINCREMENT |
 **MANUFACTURER_NAME** | VARCHAR(255)    | NOTNULL |
 **BRAND**             | VARCHAR(255)    | NOTNULL |
